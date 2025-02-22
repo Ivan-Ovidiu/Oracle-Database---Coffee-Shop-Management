@@ -1,5 +1,5 @@
 # Oracle Database - Coffee Shop Management
-Aceasta baza de date gestioneaza inventarul de bauturi si produse alimentare, informatiile despre clienti si angajati, precum si toate tranzactiile. Aceasta include tabele pentru bauturi, produse, comenzi, bonuri fiscale, plati si monitorizarea activitatii angajatilor, inclusiv prezenta si bonusurile acestora. Structura permite urmarirea eficienta a vanzarilor, stocurilor si performantei personalului.
+Aceasta baza de date gestioneaza inventarul de bauturi, informatiile despre clienti si angajati, precum si toate tranzactiile. Aceasta include tabele pentru bauturi, produse, comenzi, bonuri fiscale, plati si monitorizarea activitatii angajatilor, inclusiv prezenta si bonusurile acestora. Structura permite urmarirea eficienta a vanzarilor, stocurilor si performantei personalului.
 
 De asemenea acest proiect contine diverse queries in PL/SQL aplicate pe baza de date, pentru a exemplifica utilitatea acesteia.
 
